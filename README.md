@@ -18,5 +18,3 @@ This will start a local server at `http://localhost:3000`.
 
 Now you can make **POST**, **PUT**, **DELETE**, and **GET** requests to your server.
 ```
-
-
