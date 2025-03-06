@@ -1,4 +1,5 @@
 # My JSON-server
 A fake online REST server
 
-https://my-json-server.typicode.com/
+API-URL: https://my-json-server.typicode.com/rachel-zocom/JSON-server/db
+
